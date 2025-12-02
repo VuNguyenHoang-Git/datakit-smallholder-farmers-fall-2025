@@ -40,7 +40,7 @@ After the cleaning process, the characteristics of the dataframe are:
 ## AI use disclaimer
 Deepseek was used to generate the dictionary with question types (categories) in `Data Cleaning.ipynb`
 
-## Univariate Key Insights
+## Distributions
 [![Questions per country](images/questions_per_country.jpg)]()
 
 [![Questions per season in Kenya](images/questions_per_season_kenya.jpg)]()
@@ -48,7 +48,7 @@ Deepseek was used to generate the dictionary with question types (categories) in
 
 [![Question type distribution](images/question_type_distribution.jpg)]()
 
-## Bivariate Key Insights
+## Key Insights
 [![Question types per season in Kenya](images/types_per_season_kenya.jpg)]()
 [![Question types per season in Uganda](images/types_per_season_uganda.jpg)]()
 
