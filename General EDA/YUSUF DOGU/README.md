@@ -27,7 +27,7 @@ In order to analyze distribution of missing values in every country i prepared t
 It's so important to drop unnecessary columns because they may be waste of time, for instance some of the countries have 0 or 1 unique value in their columns and these columns can't give any usable information so we drop them
 
 <div align="center">
-  <img src="images_from_analysis/General EDA/YUSUF DOGU/images_from_analysis/drop_unnecessary_cols.png" alt="Filling NaN and Dropping Columns" width="600">
+  <img src="images_from_analysis/drop_unnecessary_cols.png" alt="Filling NaN and Dropping Columns" width="600">
 </div>
 
 ## making_rows_unique()
